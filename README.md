@@ -15,15 +15,15 @@ cryptocurrency investment portfolio for its customers.
 
 ## Tables and Plots
 Elbow Curve
-![Elbow Curve](https://github.com/AndyHerron/Credit_Risk_Analysis/blob/main/screenshots/Target%20value%20counts.png)
+![Elbow Curve](https://github.com/AndyHerron/Cryptocurrencies/blob/main/screenshots/elbow_curve.png)
 
 3d Scatter Plot with PCA data and CLusters
-![3D scatter plot](https://github.com/AndyHerron/Credit_Risk_Analysis/blob/main/screenshots/Random%20Oversampling.png)
+![3D scatter plot](https://github.com/AndyHerron/Cryptocurrencies/blob/main/screenshots/3D_scatter_with_clusters.png)
 
 HVPLOT table
-![hvplot_table](https://github.com/AndyHerron/Credit_Risk_Analysis/blob/main/screenshots/SMOTE%20Oversampling.png)
+![hvplot_table](https://github.com/AndyHerron/Cryptocurrencies/blob/main/screenshots/hvplot_table.png)
 
-2D Scatter Plot
-![2D Scatter plot](https://github.com/AndyHerron/Credit_Risk_Analysis/blob/main/screenshots/Cluster%20Centroids%20Undersampling.png)
+2D Scaled Data Plot
+![2D Scaled Data plot](https://github.com/AndyHerron/Cryptocurrencies/blob/main/screenshots/Scaled_data_plot.png)
 
 
